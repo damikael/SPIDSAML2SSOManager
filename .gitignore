@@ -1,0 +1,9 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# build
+/target/classes
+/target/generated-sources
+/target/scr-plugin-generated
+
+# misc
+.DS_Store
